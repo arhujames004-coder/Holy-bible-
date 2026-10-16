@@ -1,0 +1,6 @@
+{
+  "name": "The Holy Bible",
+  "description": "The Holy Bible - Digital Study Platform with offline scripture, translations, verse highlights, notes, reading plans, and search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
